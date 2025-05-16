@@ -1,4 +1,4 @@
-# pher-peper-repo-index
+# pher-paper-repo-index
 This is the repository index for papers on photocatalytic hydrogen evolution reactions.
 
 - [pher-paper-2025-ss-segment](https://github.com/pumachu/pher-paper-2025-ss-segment)  
